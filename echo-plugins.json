@@ -99,6 +99,29 @@
       ]
     },
     {
+      "id": "mv-enhancer",
+      "path": "mv-enhancer",
+      "repo": "https://github.com/hoowhoami/EchoMusicPlugins",
+      "homepage": "https://github.com/hoowhoami/EchoMusicPlugins/tree/main/mv-enhancer",
+      "tags": [
+        "mv",
+        "video",
+        "quality"
+      ]
+    },
+    {
+      "id": "playback-control-order",
+      "path": "playback-control-order",
+      "repo": "https://github.com/hoowhoami/EchoMusicPlugins",
+      "homepage": "https://github.com/hoowhoami/EchoMusicPlugins/tree/main/playback-control-order",
+      "tags": [
+        "player",
+        "appearance",
+        "customization",
+        "sidebar"
+      ]
+    },
+    {
       "id": "webdav-backup",
       "path": "webdav-backup",
       "homepage": "https://github.com/hoowhoami/EchoMusicPlugins/tree/main/webdav-backup",
